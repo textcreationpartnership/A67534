@@ -1,0 +1,1012 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dialogue between K.W. and Benting occasioned by his going into Flanders after the death of the Queen.</title>
+            <author>K. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67534</idno>
+            <idno type="STC">Wing W77</idno>
+            <idno type="STC">ESTC R221934</idno>
+            <idno type="EEBO-CITATION">99833178</idno>
+            <idno type="PROQUEST">99833178</idno>
+            <idno type="VID">37653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2160:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dialogue between K.W. and Benting occasioned by his going into Flanders after the death of the Queen.</title>
+                  <author>K. W.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dialogues, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:37653:1"/>
+            <head>A DIALOGUE BETWEEN K. W. and Benting, Occaſioned by his Going into <hi>Flanders</hi> after the DEATH of the QUEEN.</head>
+            <stage>W. In Bed, the Candle burning dim.</stage>
+            <sp>
+               <speaker>W.</speaker>
+               <p>THeſe <hi>Gripes</hi> of <hi>Conſcience</hi> are a <hi>domn'd Diſeaſe;</hi> nor is there any <hi>Cure</hi> for e'm except a <hi>Medicine,</hi> that will never down with me, I thought I had quell'd, maul'd, kill'd, and ram<g ref="char:EOLhyphen"/>med the Worm for ever moving more; and yet if Trouble come, or Danger threaten, I cannot be alone, but it comes crawling on, and ſtings, and bites, the Vulture feeding on <hi>Prometheus</hi>'s Heart cannot be a greater Torment: The impar<g ref="char:EOLhyphen"/>tial Devil will not bate an Ace of Truth, but muſters up all my Villanies before me, enough to have <hi>damn'd</hi> ten thouſand to the <hi>loweſt Hell,</hi> and then ...</p>
+               <stage>The Q's Ghoſt glides by, and diſappears.</stage>
+               <p>Ha! What art thou? Sure it was She; and is there then ſomething of us that remains even after Death? Is there a reckoning in the Caſe? Sure mine will be no very comfortable part in the other World if it be anſwerable to my De<g ref="char:EOLhyphen"/>ſerts in this.</p>
+               <stage>The Ghoſt returns, approaches him, and ſpeaks.</stage>
+               <p>Q's Ghoſt, <hi>Repent,</hi> for me it's too late, not yet for you.</p>
+            </sp>
+            <stage>(Exit Ghoſt.)</stage>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Ha! This preaching Ghoſt hath put me in a fit of Trembling; but ſince <hi>Moſes</hi> and tho <hi>Prophets</hi> could never do any good of me, it ſhall never be ſaid, that <hi>She</hi> coming Canting from the <hi>Dead</hi> ſhall move me, whom I never regarded in her Life. Repent! <hi>Wiſe work indeed.</hi> Where ſhall I begin? Or when ſhall I make an end? My whole Life hath been ſuch a Scene of <hi>Mon<g ref="char:EOLhyphen"/>strous Villanies,</hi> that they are ſearce to be <hi>repeat<g ref="char:EOLhyphen"/>ed,</hi> never to be <hi>repented.</hi> Who would begin a work which will never be done? I have traded in <hi>barbarous Murders, helliſh Lyes damn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d Conſpi<g ref="char:EOLhyphen"/>racies;</hi> I have oppreſſed my <hi>Country,</hi> Baniſhed my <hi>Father,</hi> Seiz'd his <hi>Kingdoms,</hi> put the <hi>w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ole World</hi> in <hi>Blood</hi> and <hi>Flames,</hi> and as far as Man can, have even dethroned God himſelf; for I have made <hi>Religion</hi> a meer <hi>Cheat</hi> and <hi>Stalking-horſe</hi> to my
+<pb facs="tcp:37653:2" rendition="simple:additions"/>
+                  <pb n="1" facs="tcp:37653:2"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="2" facs="tcp:37653:3"/>Deſign<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and undone all, who would not <hi>re<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>unce</hi> any <hi>Obligation</hi> from the <hi>Lows of God,</hi> or from the Tw of <hi>Sacred Oaths:</hi> and could I but conquer <hi>Conſerence,</hi> and the K. of <hi>France,</hi> no<g ref="char:EOLhyphen"/>thing could ſtand before me. And ſhall <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>repent? No. no, The evils I have done muſt be m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>tained by greater, if greater can be; if <hi>Hell</hi> can find out a Sin, which the World never yet knew, I'll readily act it, provided it may ſerve my <hi>Am<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ition,</hi> or further my <hi>Deſi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>.</hi>
+               </p>
+               <p>But oh! In ſpite of all, I ſhall feel ſomething within; This <hi>gnawing Conſcience,</hi> the Devil would not be troubled with: What? Who wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s there?</p>
+            </sp>
+            <stage>Enter Page.</stage>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Sir, Your Majeſty's Pleaſure?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Go tell my Lord <hi>Pertlard,</hi> it's time to riſe, I want him, and ſend in one to dreſs me.</p>
+            </sp>
+            <stage>Enter Second Page.</stage>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Come; bring my Clo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ths, Make ready, Be quick, I am uneaſy and in haſte, Give me my <hi>private A mour</hi> next my Body; there is no truſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing any Man a Moment; every Man is, or has reaſon to be my Enemy. <hi>Page,</hi> Doſt thou ſeep well on Nights? Doſt thou never dream of the Devils nor ſee Ghoſts?</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Sir,</hi> I have heard of ſuch things; but no<g ref="char:EOLhyphen"/>thing breaks my Reſt, unleſs when I am call'd, and they will let me ſleep no longer; and then within my ſelf, I wiſh them hang'd for't.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Thou art happier than thou art aware of. Villain, What doſt? Thou draweſt the Stockin on my left Foot firſt. Curſe on the Fool, and Omen both.</p>
+            </sp>
+            <sp>
+               <speaker>P.</speaker>
+               <p>
+                  <hi>Sir,</hi> I'll pull it off, and put it firſt on the other, if you pleaſe?</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Coxcomb, Thou haſt done what thou canſt undo; Diſpatch, let me be out of thy Hands.</p>
+            </sp>
+            <stage>Enter Lord <hi>Portland.</hi>
+            </stage>
+            <sp>
+               <speaker>W.</speaker>
+               <p>My Deareſt <hi>Benting,</hi> welcome I never more long'd for thy Company. I have had a reſt<g ref="char:EOLhyphen"/>leſt. Night; Come, let us retire, this Room is haunetd, the Devil here keeps <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt.</speaker>
+               <p>Your Majeſty ſeems diſorder'd, I am not a little troubled to ſee it thus.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I ſent for you to help to mend the matter, not to encreaſe my Vexation.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I will do <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> utmoſt lies in me, when I know what the ma<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er is.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I doul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t it no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, I know I have thy Heart; and I never more nee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed thy Head than now. Have you conſidered wha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>eſperate circumſtan<g ref="char:EOLhyphen"/>ces</hi> I am in by the <hi>Deeth</hi> of the <hi>Queen;</hi> and my Neceſſity of going for <hi>Flanders.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Yes if you were among Men of <hi>Senſe</hi> or <hi>Thought;</hi> but amongſt the <hi>Block-headed Engliſh,</hi> who never in Convulſions of State contrive any thing, but their own ruin, you may be ſafe e<g ref="char:EOLhyphen"/>nough.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I know the Generality of them are like a Hog, who if he ſets himſelf to go on in a way, you may ſooner knock out his Brains, than turn him; but then they are like a Hog ſtill, who if he chance to turn of himſelf, is as obſtinate in the quite contrary way; and I have reaſon at this time to fear it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>We ſhall do well enough for that matter. It is but employing your <hi>Agents</hi> to fill their heads with diſmal Appreh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſions of <hi>Popery</hi> and <hi>Slavery</hi> approaching; and then ſpreading <hi>Strange Stories</hi> and <hi>Swinging Lyes;</hi> and you may make them run mad which way you will.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I confeſs that has done Feat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: But I doubt many begin to ſee throw the Artifice, and many are not ſo willing to be deceiv'd as formely they were. Beſides were it not for the variety of Fa<g ref="char:EOLhyphen"/>ctions, and the Natural Ungovernableneſs of the People, notwithſtanding the Scandal, there wants not Men of Senſe among them, who are capable of managing Affairs as well as others.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>True, but it is Fatal in <hi>England</hi> for any Man to be wiſer than his Fellows. If any one have a longer Head than ordinary, they are ſeldom quiet till they have it off. However theſe need not trouble you. For many of them are ſo deeply dipt in Guilt, that they think they cannot be ſate under any other Government; and ſo are unque<g ref="char:EOLhyphen"/>ſtionably yours by an unchangeable Intereſt. And as for others, you have finely trick't the <hi>Com<g ref="char:EOLhyphen"/>mon-Wealths-men</hi>
+                  <pb n="3" facs="tcp:37653:3"/>to their own Deſtruction, by putting them in Employments; Theſe notwith<g ref="char:EOLhyphen"/>ſtanding their ſwe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ous Pretences are a <hi>Cruel, Bloody, Ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>barous</hi> ſort of Men, who will ſtick at nothing in their way; and it is but giving them their ſull Scope for a time; and they will deſtroy every thing in the Nation, that is <hi>Brave</hi> or <hi>Honeſt;</hi> the Odium of which you may preſent<g ref="char:EOLhyphen"/>ly return upon them, and thence take accaſion to root out them alſo; and ſo your work will be done every way.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Thou ſhalt be <hi>Canoniz'd</hi> in <hi>Hell, Lucifer</hi> himſelf could not give better Councel; but yet I fear all will not do, and that my Tools will not work as formerly, The Death of the Queen has ſhockt my Throne: She was Popular, and belov'd by many; and in my Abſence a ſure Guardian of the Crown; now I know not whom to Truſt, I am leſt alone with a lamentable crackt Title, there being no leſs than Four be<g ref="char:EOLhyphen"/>fore me, all <hi>Natural Born Engliſh,</hi> and I a <hi>For<g ref="char:EOLhyphen"/>reigner;</hi> agreeable neither in Humour nor Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ners to the People, and engag'd <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n an Intereſt quite contrary to theirs.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>It muſt be confeſs'd, that the Death of the Queen was no ſmall Loſs; She was a Miracle in Nature, if it were but for this, how ſo bad a Daughter ſhould make ſo good a Wife. But for all that, her <hi>Death</hi> is our <hi>Advantage,</hi> for there<g ref="char:EOLhyphen"/>by you are rid of a <hi>Rival</hi> in your Power; and a dangerous one too, if ever it ſhould have come in her head to be but half as <hi>unkind</hi> to her <hi>Hus<g ref="char:EOLhyphen"/>band,</hi> as ſhe had been <hi>undutiful</hi> to her <hi>Father;</hi> which might juſtly have been expected, conſi<g ref="char:EOLhyphen"/>dering the Provocations you gave her. Beſides her Life kept up the Inclinations of the People to their <hi>Old Conſtitutions,</hi> and after a ſort they ſeem to adhere to them. Now you have over<g ref="char:EOLhyphen"/>turn'd all, and have an opportunity to pull them up wholy by the roots, and in a little time to do what you liſt.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>But all this while you ſay nothing to the <hi>Four,</hi> the laſt of which, I told you had a better Title than my ſelf. Do you think theſe will be no Rubs in my way?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You are got over thoſe Rubs already, and may eaſily keep ſo.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Thou art a brave F<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ollow, every thing is eaſy to thee, but pray covince me how.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for K. <hi>James</hi> and the Prince of <hi>Wal<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> they are in Effect but one; for the Son cannot hurt you, while the Father lives; however they are both far enough off, and how they ſhould come h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ther with any conſiderable Force, whilſt you are Maſter of the Seas, is ſtrange; and if they come without ſufficient Force, it will be juſt to run into your Net.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I begin to doubt of that; for the <hi>Engliſh</hi> have been haraſſed almoſt to utter Ruine, and many begin to look upon there Caſe as deſpe<g ref="char:EOLhyphen"/>rate. And in the eye of Human R<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſon nothing can reſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re <hi>l'eace, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rade,</hi> and <hi>Sa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ety</hi> to the Na<g ref="char:EOLhyphen"/>tion but the <hi>Reſtauration</hi> of K <hi>James,</hi> which in all reaſon will make him too welcome to a <hi>wearied People.</hi> Nay his Reſtauration would put an end to all the Broyls and bloody Wars in <hi>Europe,</hi> with which all Nations are ſo quite tir'd out, that I wonder they do not ſtrive to promote it.</p>
+            </sp>
+            <sp>
+               <speaker>B</speaker>
+               <p>All this is true; and between our ſelves it muſt be confeſſed, that <hi>K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ames</hi> is a <hi>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> and <hi>Generous Prince;</hi> that no Man ever better underſtood the <hi>Trade</hi> of his <hi>Kingdom,</hi> or more ſtudied to promote i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, which made the <hi>Dutch</hi> both hate and dread him, and uſe all Arts to ruine him; and it is not to be doubted, but that the worſt of his Enemies would find him more Merciful, than they expect or deſerve? But we muſt ſay other things of him: Lying has done our <hi>Buſineſs</hi> hitherto, and muſt ſtill; and l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t all other <hi>Nations</hi> do what they will, if we can keep his <hi>own Subjects</hi> againſt him, you may be ſafe enough</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>But how can that be done? It will be impoſſibly to keep them blind-folded always.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir! Trouble not your ſelf, They hate and dread the Name of <hi>Papiſt</hi> worſe than that of <hi>Devil;</hi> that ſhall be rung conti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nally in their Ears, and then I have ſet <hi>Scriblers</hi> to work to <hi>blacken</hi> him all that may be; ſome of which re<g ref="char:EOLhyphen"/>preſent him as a <hi>Fool,</hi> ſome as a <hi>Knavo,</hi> ſome as <hi>cruel</hi> and <hi>bloody,</hi> ſome as a <hi>Dotard;</hi> in ſhort, their Pens neglect nothing, that may render him <hi>Odious</hi> to his People, or to appear <hi>uncapable</hi> of <hi>Reigning.</hi> And then others I have in Pe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſion,
+<pb n="4" facs="tcp:37653:4"/>who go into all Companies, and <hi>Redicule</hi> him, and tell <hi>ſtrange things</hi> of him, and after ſo long Abſence, and ſo often telling, theſe things are ſunk into the Peoples heads; and they are pre<g ref="char:EOLhyphen"/>pared for any thing, ſo that if it ſhould be told them, that be had <hi>Horns</hi> and <hi>Hooſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> I am conſi<g ref="char:EOLhyphen"/>dent they would believe it, and therefore trou<g ref="char:EOLhyphen"/>ble not your ſelf about him.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well! But have you conſidered, that I leave behind me the <hi>Princes Ann</hi> and her <hi>Son</hi> in my Captial <hi>City;</hi> and as I may ſay, in the heart of my <hi>Kingdom;</hi> and tho' others Precede them; yet both their Titles are anteredent to mine.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Great things to fear, a <hi>Woman</hi> and a <hi>Child!</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>pr'thee conſider, that ſhe hath a <hi>Hus<g ref="char:EOLhyphen"/>band,</hi> who, tho' he be not very <hi>Mutinous</hi> or <hi>Am<g ref="char:EOLhyphen"/>bitious,</hi> yet is of a <hi>Martial Temper</hi> and well be<g ref="char:EOLhyphen"/>loved by all the <hi>Engliſh</hi> Souldiers; and if ſome wiſerilead ſhould get the management of him, he might be tempted to give me more Trouble than I know how to provide againſt: For tho' he could now get a <hi>Crown</hi> for himſelf, yet he might <hi>Recall</hi> and <hi>Reſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e</hi> his <hi>Injur'd Father-in-Law,</hi> and thereby not only <hi>recover</hi> his <hi>Reputation,</hi> but gain an <hi>Eternal Name</hi> and <hi>Honour</hi> throwout the World. What think'ſt thou? Shall I procure ſome good Fellow to drop ſomething in his Li<g ref="char:EOLhyphen"/>quor, and ſend him on an Errand to the other World.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No, by no means. She might then either Marry another, who would not take things ſo patiently, or be ſtir'd up by others to be more troubleſome Her ſelf. It were much more ad<g ref="char:EOLhyphen"/>viſed to ſend <hi>Her,</hi> and Her <hi>Brat</hi> packing, if it could be done neatly. But as to that, Opportuni<g ref="char:EOLhyphen"/>ty muſt be waited, and the Matter well concerted.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What is to be done with them in the mean time?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You have lately given them the <hi>Honour</hi> of <hi>Guards;</hi> I ſuppoſe you did it to no other end but in effect to make them <hi>Priſoners.</hi> You muſt be ſure thoſe Guards are true to you, and watch<g ref="char:EOLhyphen"/>ful over them; and then it will concern you to keep ſome of their Servants in Penſion, who may betray to you all their Motions and Councils. And laſtly; You muſt ſecure a certain Number of reſolute Fellows, if poſſibly, in the Guards to whom you muſt make large Allowances (for, Blood is not bought ſo cheap in <hi>England</hi> as in other Conntries) and theſe muſt never be with<g ref="char:EOLhyphen"/>out Orders without any <hi>Delay, Regard,</hi> or <hi>Mer<g ref="char:EOLhyphen"/>cy</hi> to <hi>D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſpatch</hi> them, whenever they are in<g ref="char:EOLhyphen"/>form'd they attempt any thing againſt your Government.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I am ſatisfied, that thus far thou haſt ta<g ref="char:EOLhyphen"/>k<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n thy meaſures not much amiſs But ſtill the People themſelves run in my head; for tho' I have <hi>deluded</hi> them, yet I have <hi>abuſed</hi> them at that rate that I believe the whole World cannot find one Preſident to parallel it There it there<g ref="char:EOLhyphen"/>fore ſome. Cauſe to fear them, unleſs they have utterly loſt their Senſes; and therefore, my faithful <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ev<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing!</hi> Deal truly with me, and let me know how they ſtand affected.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>If I ſhould tell you Truth, I ſhall enrage you? if not. I ſhall deceive you; Therefore, Great Sir! excuſe me, and commit that unwel<g ref="char:EOLhyphen"/>come Task to ſome other, and not tome, who have always ſtudied to pleaſe you.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Yes to be deceived, and conſequently ruined; Come, Dally not with me; I muſt know what they ſay, and will know even the worſt of it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>That is a hard matter to tell, for ſome ſay ſo very bad, that a Man ſearce knows how to repeat it after them.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well Be it as bad as it will, I muſt know, that I may provide and arme againſt it. And therefore I conjure you, as you love and tender my Safety, that you deal plainly with me, and let me know all you have heard? I may be <hi>angry</hi> at them, but ſhall think my ſelf <hi>oblig'd</hi> to you for a <hi>True</hi> and <hi>Faithful Diſcovery.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Tho' I had much rather this had been done by another; yet ſince it is your Majeſty's Plea<g ref="char:EOLhyphen"/>ſure, I obey; Then know, that as to your <hi>Reli<g ref="char:EOLhyphen"/>gion,</hi> they ſay you are a <hi>Papiſt;</hi> that when you ſo Barbarouſly cauſed the <hi>Dewitts</hi> to be torn in pieces, you transfacted the matter with <hi>Romiſh Prieſts;</hi> that when you entered into his <hi>Con<g ref="char:EOLhyphen"/>federacy,</hi> you took the Sacrament there upon at
+<pb n="5" facs="tcp:37653:4"/>the <hi>Great Church</hi> in <hi>Bruſſels;</hi> That you <hi>faith<g ref="char:EOLhyphen"/>fully promiſed</hi> the <hi>Pope</hi> to promote the <hi>Romiſh Religion</hi> in <hi>England,</hi> and that accordingly you now indulge the <hi>Papiſts</hi> greater Liberty than ever they had under K. <hi>James,</hi> and that where he made <hi>one Papiſt,</hi> you have made <hi>Forty;</hi> and many more things to this purpoſe; and from hence they infer, that you have <hi>forfeited</hi> the Crown of <hi>England</hi> even by your own <hi>Act of Settlement.</hi> Yet others do not believe this, but take you for a <hi>perfect Libertine;</hi> and ſay that Religion hangs on you like water on a Gooſe, which you make uſe of for your Turn, and ſhake off at your Pleaſure.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Theſe laſt are moſt in the Right; but they are all a parcel of Fools. What is Reli<g ref="char:EOLhyphen"/>gion to me, except for a Pretence to blind the People. Did ever any conſiderable Action of my Life ſavour of Religion? It had been im<g ref="char:EOLhyphen"/>poſſible for me to have driven my Father out of his Kingdom, if he had not had too much Re<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>igion. I can be a <hi>Church of England-man</hi> here a <hi>Presbyterian</hi> in <hi>Scotland,</hi> a <hi>Papiſt</hi> in <hi>Flanders,</hi> and of any other <hi>Religion</hi> that is in <hi>Vogue</hi> in any other place, ſo that it <hi>promote</hi> my Deſigns. For after all, I will ſerve God no further, than God ſerves me. But go on.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They ſay you are a very <hi>Brute;</hi> and downright charge you with <hi>Sodomy,</hi> and name your very <hi>Catamites.</hi> Now this Sin is account<g ref="char:EOLhyphen"/>ed in <hi>England</hi> not only <hi>Unnatural</hi> but <hi>Mon<g ref="char:EOLhyphen"/>strous,</hi> and is no where in a worſe Name; the Men <hi>abhor</hi> it; and the Women will not endure the name of one guilty of it, and therefore you muſt be wary, for if the Women here are once your <hi>Enemy,</hi> the Men will not long be your <hi>Friends</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Slaves and Villains! What am I a King for; if I can have no peculiar Pleaſure to my Self? The Sot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ought to be thankful, that I take this courſe, that there may be no more of the Breed of me. Have I not been plague enough to them, unleſs they may be bleſſed with a Suc<g ref="char:EOLhyphen"/>ceſſion of ſuch?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then thuy ſay that you have given many <hi>Honeſt Men's Eſtates,</hi> and almoſt all the <hi>Crown<g ref="char:EOLhyphen"/>lands</hi> to <hi>Forreigners,</hi> whereby you have ruin'd many <hi>Families,</hi> and impoveriſhed the <hi>Crown,</hi> and ſet up <hi>Forreigners</hi> to trample on the <hi>Natives.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>Could the Fools imagine, that I came hither to enrich them? Where ſhould I have it? If I came hither for my own Ends, what can they expect, but that I ſhould advance my Friends and Relations, and ſuch as will be true to me? What would they have? They neither wanted <hi>Lands,</hi> nor <hi>Monies,</hi> nor any ſort of <hi>Riches</hi> before; their only Complaint was for <hi>Religion;</hi> and they have <hi>Religions</hi> e<g ref="char:EOLhyphen"/>nough, let them take them, and be content, and be damn'd their own way.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They Clamour loud againſt your carry<g ref="char:EOLhyphen"/>ing the <hi>Money</hi> out of the Nation, and encour<g ref="char:EOLhyphen"/>aging the <hi>Dutch</hi> in their open <hi>Clipping, Coun<g ref="char:EOLhyphen"/>terfe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ting</hi> and <hi>Debaſing</hi> it. This laſt <hi>Act againſt Clipping and Coyning,</hi> is ſaid to be only a Con<g ref="char:EOLhyphen"/>trivance to <hi>hang Engliſhmen,</hi> and to ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ure the <hi>Profit</hi> of all the <hi>Good Money,</hi> that is left, to the <hi>Dutch;</hi> and now they ſay you have Erected a <hi>Bank</hi> and <hi>Mint</hi> at <hi>Antwerp,</hi> where you Coin Money of <hi>Iron,</hi> and other <hi>baſe All<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ſend it hither, and Exchange it for <hi>good Money</hi> out of the <hi>Exchequer,</hi> which receives none here <hi>bad,</hi> and now pays none <hi>good;</hi> whereby in a ſhort time there will not be one Penny of Ster<g ref="char:EOLhyphen"/>ling Money leſt in the Kingdom, which will breed Confuſion, and ſet them all together by the Ears.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>And let them go together by the ears, and tear out each other Throats, with all my Heart, my Neceſſities muſt, and ſhall be Sup<g ref="char:EOLhyphen"/>plied. If I do not make vaſt Contributions, the <hi>Confederacy</hi> cannot be Supported; and if that fall, I ſhall be like the <hi>Jackdaw</hi> in the Fa<g ref="char:EOLhyphen"/>ble, ſtrutting in the <hi>Peacocks Feathers;</hi> they will begin then to examine the Caſe, and every one will be pulling his Feather, and I ſhall be a <hi>Daw</hi> again. No, no, I'll ſpend their Coin as far as it will go, and then make them ſell their <hi>Plate</hi> for <hi>Iron Money;</hi> and when that is ſpent, I'll ſell their <hi>Horſes, Cows, Sheep, Corn,</hi> and <hi>Themſelves too,</hi> rather than I'll want.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They complain that whilſt you are pro<g ref="char:EOLhyphen"/>fuſe to others, you pay neither the <hi>Seamen<g ref="char:punc">▪</g>
+                  </hi> or <hi>Souldiers</hi> of the <hi>Engliſh;</hi> and yet uſe them baſely, and ſtarve many of them, and put them on the moſt deſperate Attempts, and then
+<pb n="6" facs="tcp:37653:5"/>leave them in the Lurch, on Purpoſe, that they may be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut off; by which means they ſay you have Murdered above a <hi>Hundred thouſand Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>And I wiſh they had been ten times as many more; I had been rid of ſo many <hi>Rogue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> and <hi>Rebe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and might have <hi>Stockt</hi> their Country with others, whom I could have call'd in, who would have been truer to me, than theſe can be expected.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Very true, but theſe heavy Clod-pated Raſcals, ſeem to be ſentible of this, however they came by it. For they do not yet ceaſe to talk of the Attompt to <hi>Naturalize <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gners by Act of Pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> ament:</hi> which they look upon as an <hi>Invitation</hi> of all the <hi>Rogue<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, Malecon<g ref="char:EOLhyphen"/>tents,</hi> and <hi>Begga<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> of other <hi>Countries</hi> to come over and <hi>Diſpoſſeſs</hi> them: And they do not ſtick to call even their Dearly beloved Houſe of Commons <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi> to their <hi>Country,</hi> for that under Pretence of Favour to ſome parti<g ref="char:EOLhyphen"/>cular Perſons, they paſſed Bills whereby ſeve<g ref="char:EOLhyphen"/>ral <hi>Hundreds</hi> of <hi>Strangers</hi> were <hi>Clandeſtinely Naturalized,</hi> which they ſay is purſuing the ſame deſign by Retale, which they fail'd of in Groſs.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>And that Deſign I will carry by one means or other; what care I what becomes of them, ſo I can ſecure my ſelf, and my own Grandeur?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But you muſt do it warily, for they com<g ref="char:EOLhyphen"/>plain that you are bringing <hi>Forreigners</hi> over daily; and that whilſt you <hi>diſarm</hi> the <hi>Natives,</hi> you put <hi>Armes</hi> into the hands of <hi>Dutch, VVal<g ref="char:EOLhyphen"/>loons,</hi> and <hi>Refugees,</hi> and privately Exerciſe them; to what End, they ſay, they cannot gueſs, unleſs it be when opportunity ſerves to cut the <hi>Engliſh Threats.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>If I had enough of them, they ſhould quickly find what I would do with them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They ſay, you value more, and have a greater kindneſs for <hi>Monſieur Renew,</hi> and his <hi>Hugen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ts;</hi> than for the <hi>Lord Mayor, Aldermen, Common-Councel, and all the City of London.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>There is reaſon for it; the one are <hi>True,</hi> to me, the others <hi>Falſe,</hi> at leaſt <hi>wavering</hi> and <hi>inconſtant:</hi> It is a <hi>Rebellions, Headſtrong City;</hi> I care not if it once more lay in <hi>Aſhes,</hi> had I but firſt ſecur'd the <hi>VVealth</hi> of it; and I think I have pretty well pillag'd it, or ſhall do, be<g ref="char:EOLhyphen"/>fore I have done.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>You muſt conſider of ſome way or other to <hi>came</hi> that <hi>City,</hi> or have it at your <hi>beck;</hi> which will ſearce be, unleſs it were <hi>peopled</hi> with other <hi>Cattle,</hi> or the greateſt Part of it; but to proceed; They ſay, that you have convey<g ref="char:EOLhyphen"/>ed away all the <hi>Crown Jewe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Plate,</hi> and <hi>Far<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iture;</hi> and ſome ſuch as the World cannot re<g ref="char:EOLhyphen"/>pair the Loſs of.</p>
+            </sp>
+            <sp>
+               <speaker>VV.</speaker>
+               <p>The Fools gave them me, and who is there, whom I would leave them to here? And therefore I will enrich my ſelf, and my own Country with them, rather than any o<g ref="char:EOLhyphen"/>ther. Beſides I muſt live Great and Splendid<g ref="char:EOLhyphen"/>ly amongſt the <hi>Conſederates;</hi> nor do I know but after all, in ſpite of my Endeavours, King <hi>James</hi> may come back again, which if he do, Infa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th, I'll make my <hi>Mother-in Law</hi> a <hi>giddy Houſewiſe;</hi> for ſhe ſhall come to <hi>bare VValls.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I muſt, Sir, farther tell you, That it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a general Complaint, that you have deſtroyed the <hi>Trade</hi> of the <hi>Nation,</hi> at <hi>Home</hi> and <hi>Abroad.</hi> That the <hi>Merchant<g ref="char:punc">▪</g>
+                  </hi> cannot have <hi>Convoys,</hi> un<g ref="char:EOLhyphen"/>leſs when it is in ſavour of the <hi>Dutch,</hi> whoſe <hi>Trade</hi> you by all means <hi>advance,</hi> while you <hi>ſtifle</hi> theirs; That above <hi>three Thouſand</hi> Trad<g ref="char:EOLhyphen"/>ing Veſſels (and ſome vaſtly Rich) have ſall'n into the Hands of the <hi>French;</hi> and that you have with-held the <hi>Ships</hi> appointed to <hi>cruiſe,</hi> as if you <hi>join'd</hi> with them in the Deſign. That the <hi>Eaſt-India Trade</hi> is in a manner loſt; and given to your Beloved <hi>Dutch;</hi> That the <hi>Turky Trade</hi> is in very ill circumſtances; That our <hi>Iſlands</hi> and <hi>Plantations</hi> are lamentably haraſſed, and impoveriſhed: and then for the <hi>Trade</hi> at home: They ſay you encourage the <hi>Refugees, Dutch,</hi> and all ſorts of <hi>Strangers</hi> againſt the <hi>Engliſh;</hi> and that not only by employing them, buying of them, and encouraging others to do ſo, but alſo by raiſing <hi>vaſt Contributions</hi> for them, whereby they are enabled to <hi>work at Under-Rates,</hi> and <hi>underſell</hi> the <hi>Engliſh,</hi> and thereby <hi>Beggar</hi> and <hi>Starve</hi> them; and this they ſay you do to force the <hi>Engliſh</hi> to go off
+<pb n="7" facs="tcp:37653:5"/>for Sould<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ers, and to bring on <hi>Forreigners</hi> in their room for <hi>Inhabitants,</hi> till in the end you ſhall be able to give the <hi>L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd</hi> away from them to meer <hi>Strangers,</hi> or their very <hi>Enemies.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I have reaſon to encourage thoſe Men, as being the Perſons, who in all likelihood muſt ſtand and fall with me; and they are the Men perhaps I muſt truſt to at laſt, if ever it ſhould come to a deſperate Puſh.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Great Sir, I humbly beg your pardon; I am unwilling to tire you with theſe unple<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſant Relations; but to ſay the Truth, they have a thouſand Complaints, and they encreaſe daily<g ref="char:punc">▪</g> But in ſhort, they ſay you are an <hi>utter Enemy</hi> of the <hi>Engliſh,</hi> and do all you can to deſtroy them from being a <hi>Nation.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Hell and Damnation ſeize them; would they had all but <hi>one Head,</hi> that I might diſ<g ref="char:EOLhyphen"/>patch them all at <hi>once.</hi> Who can have kind<g ref="char:EOLhyphen"/>neſs for ſuch <hi>Rogues</hi> and <hi>Villains</hi> as drove a<g ref="char:EOLhyphen"/>way their <hi>natural King,</hi> and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t aſide the <hi>Princes</hi> of the <hi>Blood, born amongſt them,</hi> to ſet me up a <hi>Stranger,</hi> who from my Cradle was bred up an <hi>Enemy</hi> to them? How ſhall I truſt ſuch <hi>Fools</hi> and <hi>Madmen?</hi> Or can I think my ſelf ſafe, till they are quell'd? When I have ſhar'd the <hi>Lands</hi> of their <hi>Nobles</hi> and <hi>Gentry</hi> amongſt my <hi>Creatures</hi> and <hi>Dependants,</hi> and made the reſt <hi>Gibeonites</hi> and <hi>Slave<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>;</hi> when I have render'd them unable to hurt me, then I may truſt them, and not before But enough of this Theme, I believe thou haſt dealt pretty truly with me. Come, let us now conſider how to be even with them, and manage them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, After ſuch a ſtrain of Thought, and ſuch uneaſy Diſcourſe, Would not a little Di<g ref="char:EOLhyphen"/>verſion do well to refreſh you? I juſt now ſaw Madam <hi>Villiers</hi> walking in the Garden.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Call her up; It is a witty Slut, when ſhe gives her Mind to it; and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o unſtring the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow ſometimes is not amiſs.</p>
+            </sp>
+            <stage>(Exit Binting.)</stage>
+            <sp>
+               <speaker>B.</speaker>
+               <p>
+                  <hi>Madam<g ref="char:punc">▪</g>
+                  </hi> The King wants your Company.</p>
+            </sp>
+            <sp>
+               <speaker>M. V.</speaker>
+               <p>My Lord; You are miſtaken ſure, you mean <hi>Monſieur Capel;</hi> or is your own Arſe grown too old and out of Faſhion? Go, te<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> that <hi>ſhameleſs Buggering, Sodomitical Raſcal</hi> your King, that I ſcorn to come near ſuch a <hi>Beaſt;</hi> nor ought any <hi>Woman</hi> to come at him, unleſs it were to <hi>ſcratch</hi> out his Eyes, or ſerve him, as the <hi>Swedes</hi> ſerves <hi>Jeſuits,</hi> when they catch them in their <hi>Country.</hi> Go, bid him ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> for his Catam<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tes, with a pox to him.</p>
+            </sp>
+            <stage>(Enter Benting.)</stage>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I ſuppoſe your <hi>Majeſty</hi> heard the <hi>Vixin,</hi> I need not relate her Anſwer.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Yes, yes, Some water has run by her Mill; the Jade is angry, that ſhe cannot <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<g ref="char:EOLhyphen"/>groſs the whole Trade to her ſelf, let her fret in her Gree<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, till ſhe is weary, and come to again; but let you and I reſume our former Conſideration, How I ſhall deal with theſe damn'd <hi>Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>The <hi>Blockheads</hi> begin to be angry; but you have ways enough to <hi>hamper</hi> them; and I make no doubt but ere long, you will thorow<g ref="char:EOLhyphen"/>ly <hi>tame</hi> them, and bring them to your Bow.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Thou <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever wanteſt either Courage or Contrivance; But pri'thee, let me hear by what ways this may be brought about.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>They are pretty well enur'd to the Yoak already; they have born that within theſe Se<g ref="char:EOLhyphen"/>ven Years, that would have broke any other Peoples backs in <hi>Europe.</hi> Hold them to it ſome three or four Years longer, and they'l look for it of courſe.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>But how to do it is the Great thing: for tho' they are a People <hi>wicked</hi> and <hi>f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oliſh,</hi> yet they are <hi>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſly</hi> and <hi>ſtubbo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n;</hi> and if they run a head, there will be ſomething to do with them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, Do not entertain the leaſt Fear o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Thought that way: For all things conſ<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e, as it were; to accompliſh your Deſigns. And firſt, I think the Wiſdom of the <hi>Houſe of Commons</hi> hath gone a great way in the Matter, but more particularly in the late <hi>Act</hi> for <hi>Births, Mar<g ref="char:EOLhyphen"/>riages,</hi> and <hi>Burials;</hi> whereby ſuch an Accompt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ordered to be return'd into the <hi>Exchequ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </hi> that the People are not only <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>umbe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ed,</hi> but their reſpective <hi>Quality</hi> and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> on</hi> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>;
+<pb n="8" facs="tcp:37653:6"/>ſo that from thence, with a little further Aſ<g ref="char:EOLhyphen"/>ſiſtance from your Agents in all Countries, you may, like another <hi>William</hi> the <hi>Conquerour,</hi> compile another <hi>Doom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>-day Book;</hi> and thence take an Eſtimate of the <hi>Strength</hi> and <hi>Riches</hi> of the Nation, know whom to <hi>ſupport,</hi> and whom to <hi>cruk,</hi> and where at any time to have a <hi>Booty.</hi> Nor can they ever hereafter cheat you conſi<g ref="char:EOLhyphen"/>derably in any <hi>Tax</hi> or <hi>Poll,</hi> but from this ac<g ref="char:EOLhyphen"/>compt you may trace them out.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I do believe that more and better uſe may be made of that <hi>Act,</hi> than ever they in<g ref="char:EOLhyphen"/>tended; and I will not fail to improve it to the utmoſt.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Your Majeſty has chſerv'd that the <hi>En<g ref="char:EOLhyphen"/>gliſh Coaſts</hi> for the moſt part he <hi>open;</hi> and that there are many <hi>rich Villages</hi> by the <hi>Shoar</hi> which are utterly <hi>Indefenſible;</hi> Theſe the King of <hi>France,</hi> without troubling his <hi>R<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yal Navy,</hi> might <hi>burn</hi> at pleaſure by his <hi>Privateers;</hi> and when they had made us theſe <hi>coſtly Bon fires</hi> and <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>uminations,</hi> they might whip away, and be gone without the leaſt hurt or damage either by hand or Sea, unleſs by meer Accident.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>'Tis very true, and I wonder he hath not done it; but I ſuppoſe it is to ſhew himſelf a Generous <hi>Enemy,</hi> and to ingratiate himſelf in<g ref="char:EOLhyphen"/>to a <hi>Good opinion</hi> with the <hi>Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But it is not your Intereſt to ſuffer this; but by <hi>Bombing</hi> and <hi>Burning</hi> his <hi>Town<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> and <hi>Hareſſing</hi> his <hi>Coaſts,</hi> you muſt provoke him to <hi>Retaliate.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>But I fear, that when the <hi>Engliſh</hi> ſee their <hi>Houſes on Fire,</hi> and their <hi>Goods burnt,</hi> they will be Enrag'd, that they are not better Protected, after ſuch vaſt Sums of Mony given.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>No, It will only enrage them againſt the <hi>French King,</hi> and they will every where cry out againſt his <hi>Cruellies</hi> and <hi>Barbari<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ies,</hi> tho' you foret him to it; and being he hath forborn ſo long, the People may be perſuaded, that it was not from his own <hi>Inclination,</hi> but by the <hi>Inſti<g ref="char:EOLhyphen"/>gation</hi> of <hi>K. James:</hi> and thus you may ſet them violently againſt the <hi>K. of France,</hi> and <hi>K. J<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mes,</hi> and revenge your ſelf on the <hi>En<g ref="char:EOLhyphen"/>gl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſh</hi> all at once.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>What <hi>Excellent uſe</hi> may be made of <hi>Miſchief</hi> and <hi>Lying?</hi> But proceed:</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>When the Coaſts are thus burnt, you muſt take care to remove the <hi>Inhabitants,</hi> ei<g ref="char:EOLhyphen"/>ther under Pretence of putting them into the <hi>Hoſpitalt,</hi> or of allowing them <hi>Penſions,</hi> or of finding them <hi>Employment,</hi> or ſomething elſe to that purpoſe; but above all ſhew your ſelf <hi>extraordinary Compaſſionate</hi> of their <hi>Condition,</hi> and wondrous <hi>Zealous</hi> to relieve them.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Pox take thee, <hi>Benting!</hi> thou waſt never ſo much out in all thy life, as now: Beſide<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that, mercy is not in my Nature, this would undo me.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Your Majeſty is miſtaken, not I. I never <hi>intended</hi> you ſhould <hi>do</hi> thus, but only <hi>preten<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> it; And when you have thus blinded the Peo<g ref="char:EOLhyphen"/>ples Eyes, then ſcatter them all over the <hi>City</hi> of <hi>London,</hi> and their <hi>Great Towns</hi> there to <hi>Starve</hi> or <hi>Beg</hi> their <hi>Bread,</hi> and with <hi>Frightful Stories</hi> to enrage all others againſt the <hi>French:</hi> but in the mean time you muſt <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſure to take care, and ſee that you in no wiſe neglect to <hi>Rep<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ple</hi> the <hi>forſaken Coaſts</hi> with truſty <hi>For<g ref="char:EOLhyphen"/>reigners,</hi> who ſhall depend upon you, and be your faithful Servants upon all occaſions, and if you could poſſibly thus ſecure the Coaſts the whole Iſland muſt be at your Devotion; for after all to deal plainly with you, you muſt either <hi>Conquer</hi> this <hi>People,</hi> or they will <hi>Conquer,</hi> you, and kick you off, or deal worſe by you.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Now you ſay ſomthing to the purpoſe, if I could make a <hi>Conqueſt,</hi> my work were done; if nor, I am ſenſſible, that I am only <hi>Tenent at will, or by Curteſie</hi> and may be turned out at Pleaſure; and I will hazard all. rather than l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve in ſuch Circumſtances, but as to what you were ſpeaking; the coaſts in<g ref="char:EOLhyphen"/>deed generally ly open and defenſeleſs, but yet there are ſeveral ſtrong. <hi>Ports,</hi> and <hi>Cittadels,</hi> which <hi>Monſieur</hi> cannot hurt; and in theſe ſeems to lie the great ſtrenth of the Nation,</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Of thoſe aron; there are other Matters in courſe muſt fall under Conſideration before them; are you fully reſolved how to leave Matters in your Abſence?</p>
+            </sp>
+            <pb n="9" facs="tcp:37653:6"/>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Yes, I think the beſt way will be, as we concerted the Matter among our ſelves. It's true, that in ſpite of the <hi>Parliament,</hi> I made old <hi>Schomberg</hi>'s Son <hi>General</hi> of all the <hi>Engliſh Forces;</hi> and I would willing have left him and you my <hi>Deputies,</hi> or <hi>Viceroys</hi> in my Abſence; but things are not ripe for that yet, the Nation will not bear it, and there are ſome <hi>ſturdy No<g ref="char:EOLhyphen"/>blemen,</hi> as well as ſome <hi>pliant Tools,</hi> whom I muſt make uſe of, till I can handſomely get rid of them.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Then you ſeem to be reſolved on the <hi>Seven?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I am ſo. I am unwilling to ſay, that they have loſt their Reputation; however, the <hi>worſe Men,</hi> the <hi>better</hi> for me; but they have no Intereſt in the <hi>People,</hi> ſo that it is not likely they ſhould do me any hurt: And then being ſo many, and of ſuch different Perſuaſions, they will never agree upon any thing of Moment without Recourſe to me; ſo that wherever I am, I ſhall be their <hi>Umpire</hi> and <hi>Oracle;</hi> but if they ſhould ſo fall out, as to accuſe each other; I might in time have an happy opportunity to cut them all off; and th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n be ſure the reſt ſhall follow as faſt as I can. Beſides, I have left <hi>Leeds</hi> and <hi>Sunde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>land,</hi> who are over head and cars in my Intereſt, to be their <hi>Councel</hi> and <hi>Directors;</hi> and in caſe any of them tread awry, to be my <hi>Spies</hi> and <hi>Informers.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>And I think you have ſo limited their Power by your Commiſſion, that they are rather <hi>Pageants</hi> than <hi>Princes.</hi> But to leave theſe Actors to their Parts, What are your thoughts of the <hi>Campaign?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I wiſh the Devil had it with all the <hi>Con<g ref="char:EOLhyphen"/>federates,</hi> and the King of <hi>France</hi> into the Bar<g ref="char:EOLhyphen"/>gain. I muſt bluſter and make a Noiſe, and in words deſpiſe the <hi>French Lines,</hi> and threaten to break through them at pleaſure; and ſome <hi>Shews</hi> and <hi>Offers</hi> I muſt make, and perhaps cauſe ten thouſand <hi>Engliſh</hi> or more, to be knockt o'th head; and then ſend ſtrange News hither, and cauſe every thing to be <hi>magnified,</hi> and right or wrong reported on my ſide, as if I had done <hi>Great Fea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</hi> But to deal plainly and truly with thee, my Boſom Friend! I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> little hopes of doing any good there, that I care not how ſoon it is at an end; and my Chief thought<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> are employed, what I ſhall do at my <hi>Return,</hi> if I can ſecure it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Your Majeſty is now come to the main Point, for (pardo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this Freedom, Great Sir) with humble ſubmi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſion, 'tis my poor Opinion, that if you do not your Buſineſs <hi>ſocedily,</hi> at your Return you will <hi>certainly m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſcarry.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I like not ſuch O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nens. But come, tell me what you think can be then done, that by Con<g ref="char:EOLhyphen"/>ful ation with my <hi>Friends</hi> in <hi>Holland,</hi> I may im<g ref="char:EOLhyphen"/>prove <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to the utmoſt, I know nothing will b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> wanting from them to <hi>deſt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oy</hi> the <hi>Engliſh,</hi> whom they irreconcilably hate.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>My thoughts, Sir! are only to ſerve you, and therefore I hope I am more pardonable, if I warn you of Danger, and adviſe you to ſecure your ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I am ſufficiently ſatisfied b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th of your Fidelity and Ability to ſerve me; and there<g ref="char:EOLhyphen"/>fore let me have no more of theſe idle A<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gies; but come to the Buſineſs.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, there is an unlucky <hi>Swagge<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>am<g ref="char:EOLhyphen"/>phletteer,</hi> who hath given ſu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h a <hi>ſpiteful, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>deat, lying Ch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>racter</hi> of <hi>K Jame<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> that I m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſelf was aſhamed to read it, and yet in my Conſcience he hath no great love for you; but after all, he has hit upon the thing, that will do the Fea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Say you ſo? But pray what may that be?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir! He ſays plainly, and I think truly, that we are no ways likely to <hi>diſtreſs France,</hi> whilſt from time to time we talk only of trying <hi>one Summer</hi> more: For as he well obſerves, that Rich Kingdom cannot fail at a pinch to afford their King a Cordial Sup, or furniſh him wherewith to hold out one Summer more. But, ſays he, if a <hi>General Exciſe</hi> was ſettled, that would be ſuch a <hi>large</hi> and <hi>laſting Fund,</hi> as would fright him into a Compliance, when he ſaw no end of the War.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Nor any end ſhould he have, till I were <hi>Maſter</hi> both of <hi>Him,</hi> and the <hi>Confederates</hi> too, could I get that, but how ſhall I come by it?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Why thus Sir, You ſee your <hi>Parliament</hi> grow <hi>troubleſome</hi> and <hi>factious;</hi> and I know not
+<pb n="10" facs="tcp:37653:7"/>how you can truſt another; and therefore make this ſerve for a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l, and be troubled with no more for them.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Gods Sacrament <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> would give the <hi>Kingdom</hi> of <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>land</hi> to be <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id of the <hi>Parliament</hi> of <hi>En<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd,</hi> f<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> know how; t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ach me but this trick, and I'll d<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny thee no h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t my <hi>Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>one;</hi> nay th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u ſhalt not want an Intered of ſhare in that, wh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in it may <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erve thee.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Sir, It muſt be a ſhaft winged with their own Feathers, that muſt give the Fatal wound. You know your <hi>Par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ment</hi> by their own <hi>Act</hi> draw towards an <hi>End: Great lawye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> ſay, it is <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ſſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ved</hi> already; however, as matters go, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ere can be expected but <hi>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Seſſions</hi> more: and therefore, a ſoon as you return, at their next M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eting, <hi>ſpare for no Coſt, give wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t the lowdeſt, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd mo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> extravagant A h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rs can deſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e, for <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> be at that Trouble or Charge to <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> again, and all ſhall be your own.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I would throw away a Bra<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or two of <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>, that I'm g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t a <hi>General Exciſe</hi> ſet<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>d. But what if they ſhould ſettle <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t but for ſome Years?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>Never fear that, we w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll make it <hi>ever<g ref="char:EOLhyphen"/>laſting,</hi> if we can once get it of any faſhion. And perhaps it is not ſo difficult a thing to get, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s you imagine. Some of them know, that they ſhall never be Choſen again, if another <hi>Par<g ref="char:EOLhyphen"/>liament</hi> were call'd; and theſe w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll play their <hi>laſt Game</hi> to their <hi>utmoſt Advantage.</hi> Some of them are ſo <hi>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe</hi> and <hi>beggarly,</hi> that they would not ſti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k to <hi>ſell</hi> their Country for <hi>Twenty Guineas.</hi> Some are <hi>deſperately</hi> in your <hi>Intereſt,</hi> and muſt <hi>comply</hi> with what you <hi>Reſolve.</hi> Many are your <hi>Penſioners,</hi> and many accuſtomed to be <hi>greazed;</hi> and I ſcarce think there are any, who will be ablet to refuſe <hi>Gold enough:</hi> but if any ſuch there be, their Number is in conſiderable; they will be laughed at by the reſt, and may be un<g ref="char:EOLhyphen"/>done firſt, You are not bound to make all; <hi>The Major Vote will do your Buſineſs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>And I will have it, if Mony will do it.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>When this is done, <hi>Parliaments</hi> will be <hi>reedleſs</hi> to you, and <hi>hateful</hi> to their <hi>Country;</hi> ſo that there will be no danger in laying them aſide. Then placing your Troops convenient<g ref="char:EOLhyphen"/>ly, by degrees make <hi>Forreigners</hi> the <hi>Gatherers</hi> of it, who will not ſp<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e the <hi>Natives,</hi> and beſt know how to ſerue it to the Height; and will make <hi>you</hi> a <hi>truſty A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>my,</hi> if occaſion require. Then putting faithful Carriſons in <hi>Portſmouth, Hull,</hi> and <hi>Plymouth,</hi> and other places of Strength, you may privately invite <hi>Forreig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ers</hi> by way of Trade to pour in, till they over-power the <hi>Na<g ref="char:EOLhyphen"/>tives,</hi> and keep them under; and if any Great, or Small, do but ſo much as <hi>grumble, behead,</hi> or <hi>hang</hi> them, and diſpoſe of their <hi>Lands</hi> and <hi>For<g ref="char:EOLhyphen"/>tunes</hi> to your ſure <hi>Dependents,</hi> till you have rooted out their <hi>Nobil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ty</hi> and <hi>Gentry;</hi> and when you have brought things to this paſs, you may have what you will, and do what you will.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>A <hi>General Exc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſe,</hi> I think, would ena<g ref="char:EOLhyphen"/>ble me for this But what if I fail in the Pro<g ref="char:EOLhyphen"/>ject?</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I hope you will not; but if the worſt come to the worſt, then you muſt watch the <hi>breaking</hi> of the <hi>Confederacy,</hi> and exchange all the <hi>Forces</hi> you can, or buy them, and ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd them over <hi>ſpeedily</hi> hither, with promiſe of <hi>Estates; Arme</hi> all the <hi>Refugees</hi> and <hi>Strangers;</hi> Secure the <hi>Ports</hi> in ſuch way as we diſcourſed before, and then with the <hi>Sword</hi> in your hand you may <hi>take,</hi> what they would not <hi>give;</hi> and if any Stir againſt you, it will be your Advan<g ref="char:EOLhyphen"/>tage to <hi>destroy them</hi> and their <hi>Families,</hi> and gratify your, <hi>Followers</hi> with their <hi>Eſtates.</hi> And, all this you may do with a few <hi>Veterane Forces,</hi> which you may have when you pleaſe; and if you need <hi>Recruits,</hi> there are not leſs than a <hi>Hundred thouſand Forreigners</hi> in the Kingdom, who will be at your devotion, and afford you a <hi>Select Stock</hi> upon all occaſions. And who ſhall be able to ſtir or moleſt you, when you have
+<pb n="11" facs="tcp:37653:7"/>a <hi>formed Army,</hi> and <hi>Secured</hi> all <hi>Avenues?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>I do not ſee, but this may take, if cloſely and reſolutely followed,</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>But, Sir! There is one thing I had al<g ref="char:EOLhyphen"/>moſt forgot; The <hi>Fleet</hi> with <hi>Ruſſel</hi> in the <hi>Mediterane<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n.</hi> Though the <hi>Confederacy</hi> ſhould hold, it cannot ſtay long there; and yet it muſt not come home, till you have effected your Deſigns; of which if you ſhould fail (and then the Devil deceives me) it were well if the matter were ſo contrived. That that <hi>Fleet</hi> were given to the <hi>Dutch,</hi> which will eter<g ref="char:EOLhyphen"/>nally oblige them to you, and m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ke them Su<g ref="char:EOLhyphen"/>periour to both <hi>Engliſh</hi> and <hi>French</hi> by Sea; but I think that matter ought to be further Con<g ref="char:EOLhyphen"/>ſulted with the old <hi>Stanch Politick Cabal</hi> at the <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi> In the mean time continue to carry a<g ref="char:EOLhyphen"/>way every thing that is good for any thing. It will be ſome revenge to have <hi>Beggar'd</hi> the <hi>Engliſh,</hi> if you cannot <hi>Rule</hi> them; and will procure you <hi>Friends</hi> abroad; and you will be ready furniſhed to ſet your <hi>Tools</hi> at work, and wait the opportunity of another Turn here o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> elſewhere.</p>
+            </sp>
+            <sp>
+               <speaker>W.</speaker>
+               <p>Well, My <hi>Benting!</hi> I am reſolv'd. I fear neither <hi>Scotch</hi> nor <hi>Iriſh;</hi> ſo I can get the <hi>Abſolute Domonion</hi> over the <hi>Engliſh;</hi> and if all the <hi>Arts</hi> of <hi>Man,</hi> or all the <hi>Powers</hi> of <hi>Hell</hi> can effect it, I will not fa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l of it; But if like <hi>Phae<g ref="char:EOLhyphen"/>ton</hi> I muſt drop, it is ſome Satisfaction to have ſet the <hi>World</hi> on <hi>Fire;</hi> and as for this <hi>Curſed England,</hi> if I muſt bid Adieu to it, I will firſt ſo <hi>pill, ſtrip,</hi> and <hi>ranſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> it, that I will not leave it worth <hi>King James</hi>'s or any other <hi>Man</hi>'s <hi>having.</hi> But come, My Faithful <hi>Benting,</hi> e<g ref="char:EOLhyphen"/>nough for this time; Let us now go and re<g ref="char:EOLhyphen"/>freſh our ſelves, and drink a Chearful Glaſs to our good ſucceſs in proſecuting the Deſigns we have now Conſulted on.</p>
+            </sp>
+            <sp>
+               <speaker>B.</speaker>
+               <p>I am always ready to attend Your Ma<g ref="char:EOLhyphen"/>jeſty.</p>
+            </sp>
+            <stage>Exit <hi>Tyrannus,</hi> &amp;c.</stage>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
